@@ -78,6 +78,14 @@ This repository implements time series forecasting using **Ordinary Least Square
 
 ---
 
+## 📝 References
+
+- Time Series Analysis course material.
+- Data is from [Statistics Denmark](www.statistikbanken.dk), describing the number of motor driven vehicles in Denmark.
+
+---
+
+
 ## 🚀 Usage
 
 1. Install dependencies:  
